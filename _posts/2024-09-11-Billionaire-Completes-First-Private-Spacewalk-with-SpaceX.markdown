@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Billionaire Completes First Private Spacewalk with SpaceX"
-date:   2024-09-12 11:16:21 +0000
+date:   2024-09-12 01:16:21 +0000
 categories: ['News','Sci-Tech']
 excerpt_image: https://media.wwltv.com/assets/CCT/images/de9ea1dd-59ea-497f-a05b-6b8f7c9c95fc/20240911T193415/de9ea1dd-59ea-497f-a05b-6b8f7c9c95fc_750x422.jpg
 image: https://media.wwltv.com/assets/CCT/images/de9ea1dd-59ea-497f-a05b-6b8f7c9c95fc/20240911T193415/de9ea1dd-59ea-497f-a05b-6b8f7c9c95fc_750x422.jpg
