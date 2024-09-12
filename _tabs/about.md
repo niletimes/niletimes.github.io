@@ -6,11 +6,11 @@ permalink: /about/
 
 # About Us
 
-Welcome to Channel 15, your go-to source for the latest news, insights, and updates in the world of gaming, technology, and more. Our dedicated team of writers and enthusiasts aims to bring you engaging content that informs and entertains.
+Welcome to Nile Times, your go-to source for the latest news, insights, and updates in the world of gaming, technology, and more. Our dedicated team of writers and enthusiasts aims to bring you engaging content that informs and entertains.
 
 ### Our Mission
 
-At Channel 15, we are passionate about delivering high-quality content that caters to a diverse audience. Whether you're a gaming aficionado, a tech enthusiast, or someone curious about the latest trends, we've got you covered. Our mission is to provide valuable information, in-depth analyses, and entertaining narratives that keep you well-informed.
+At Nile Times, we are passionate about delivering high-quality content that caters to a diverse audience. Whether you're a gaming aficionado, a tech enthusiast, or someone curious about the latest trends, we've got you covered. Our mission is to provide valuable information, in-depth analyses, and entertaining narratives that keep you well-informed.
 
 ### What We Cover
 
@@ -29,6 +29,6 @@ We value your engagement and feedback. Connect with us on social media to join t
 
 ### Meet the Team
 
-Get to know the faces behind Channel 15. Our diverse team brings a range of expertise and interests to the table, ensuring a broad spectrum of content that caters to different tastes.
+Get to know the faces behind Nile Times. Our diverse team brings a range of expertise and interests to the table, ensuring a broad spectrum of content that caters to different tastes.
 
-Thank you for being a part of the Channel 15 community. We look forward to bringing you exciting content and being your trusted source for all things gaming and technology.
+Thank you for being a part of the Nile Times community. We look forward to bringing you exciting content and being your trusted source for all things gaming and technology.
