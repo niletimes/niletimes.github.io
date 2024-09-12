@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Set Up Effective Discount and Promotion Strategies in Shopify"
-date:   2024-09-10 14:11:21 +0000
+date:   2024-09-09 14:11:21 +0000
 categories: ['Guide','Shopify']
 excerpt_image: http://i1.wp.com/prompts.cfd/image/vQvrC8nVQxWNh6uhdzJY5A.jpg
 image: http://i1.wp.com/prompts.cfd/image/vQvrC8nVQxWNh6uhdzJY5A.jpg
