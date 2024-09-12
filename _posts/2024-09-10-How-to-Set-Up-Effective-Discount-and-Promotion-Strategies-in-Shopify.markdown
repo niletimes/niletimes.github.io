@@ -16,7 +16,9 @@ Before setting up any discount or promotion, it's essential to define your goals
 - **Move excess inventory:** Offer discounts on slow-moving products.
 - **Attract new customers:** Run first-time buyer promotions to incentivize new users to purchase.
 - **Reward loyal customers:** Offer special discounts to repeat customers to keep them engaged.
+- 
 ![How to Set Up Effective Discount and Promotion Strategies in Shopify](http://i1.wp.com/prompts.cfd/image/vQvrC8nVQxWNh6uhdzJY5A.jpg)
+
 Knowing your objective will help you choose the right type of promotion and measure its effectiveness.
 
 ### Set Up Automatic Discounts
@@ -28,6 +30,7 @@ Shopify allows you to create automatic discounts, which apply to a customer’s 
 - Define your discount rules, such as a percentage off, fixed dollar amount, or a Buy One, Get One (BOGO) promotion.
 - Set conditions such as minimum purchase amount, specific products, or customer groups eligible for the discount.
 - Schedule your discount by choosing start and end dates, ensuring it only runs during your promotional period.
+- 
 ![](https://i1.wp.com/prompts.cfd/image/6xmsyagRRLu7Jfki97iBcg.jpg)
 
 Automatic discounts provide a seamless experience for customers since the discount is applied automatically at checkout.
@@ -42,7 +45,9 @@ Discount codes are flexible and can be shared with specific customer groups, thr
 - Specify if the code applies to specific products, collections, or the entire store.
 - Set usage limits, such as one use per customer, or total number of uses allowed to control the promotion's scope.
 - Promote the code through email marketing, pop-ups, or social media to maximize reach.
+- 
 ![](https://i1.wp.com/prompts.cfd/image/6jArnMYXTA-67LIMxFz-WQ.jpg)
+
 Discount codes are a great way to track the success of specific marketing campaigns and target different customer segments.
 
 ### Offer Buy One, Get One (BOGO) Discounts
@@ -65,7 +70,9 @@ Free shipping is one of the most attractive offers you can provide, and Shopify 
 - Define the conditions for free shipping, such as minimum order value or for specific regions.
 - Specify which shipping rates the promotion applies to, and exclude expensive shipping options if needed.
 - Promote free shipping during special sales events or holidays to encourage customers to purchase.
+- 
 ![](https://i1.wp.com/prompts.cfd/image/GnjLvZm-QkiYsmoYnyVC_g.jpg)
+
 Free shipping reduces cart abandonment and gives customers an additional incentive to complete their purchase.
 
 ### Bundle Discounts
