@@ -40,12 +40,12 @@ collections:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
+  - _tabs/terms-of-service.md
+  - _tabs/privacy-policy.md
   - _tabs/about.md
   - _tabs/contact.md
   - _tabs/archives.md
   - _tabs/tags.md
-  - _tabs/terms-of-service.md
-  - _tabs/privacy-policy.md
 
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: true
