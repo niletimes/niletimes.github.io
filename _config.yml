@@ -44,6 +44,8 @@ header_pages:
   - _tabs/contact.md
   - _tabs/archives.md
   - _tabs/tags.md
+  - _tabs/terms-of-service.md
+  - _tabs/privacy-policy.md
 
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: true
