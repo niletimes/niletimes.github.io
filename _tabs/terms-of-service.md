@@ -4,11 +4,6 @@ title: Terms of Service for Nile Times
 permalink: /terms-of-service/
 ---
 
-Here’s a sample "Terms of Service" (TOS) for the "Nile Times" website:
-
----
-
-
 Welcome to *Nile Times* (“we,” “us,” or “our”). By accessing or using our website [niletimes.github.io](#) (the “Site”), you agree to be bound by the following terms and conditions (the "Terms of Service"). If you do not agree to these terms, please do not use our Site.
 
 ### 1. Acceptance of Terms
