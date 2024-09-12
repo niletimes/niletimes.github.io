@@ -7,10 +7,9 @@ excerpt_image: https://www.gamewire.de/wp-content/uploads/2020/03/zeldabotwBanne
 image: https://www.gamewire.de/wp-content/uploads/2020/03/zeldabotwBanner.jpg
 ---
 
-### A Vast Landscape for Exploration
 The expansive open world of Breath of the Wild brings the majestic kingdom of Hyrule to life in vivid detail. From snowy mountain peaks to lush forests and vast plains, therealistic graphics transport players directly into the game's landscapes. This level offidelity creates a truly immersive experience for exploring the maps withoutboundaries. Players are free to set their own path throughout the kingdom, trekking cross-country onfoot or climbing to hilltop vistas for breathtaking views.
 
-![](http://images.nintendolife.com/screenshots/81290/large.jpg)
+![Legend of Zelda: Breath of the Wild Review ](http://images.nintendolife.com/screenshots/81290/large.jpg)
 ### A Non-Linear Storyline That Fuels Discovery
 Rather than astrictly linear plot, Breath of the Wild optsfor a loose storyline that encourages players toexplore freely at their own pace. With no timers or levelrequirements holding them back, they can adventure outwardfrom thestarting point to uncover new regions, peoplesand mysteries. Along the way, players stumbleupon intriguing **side quests** and **shrine puzzles** that fleshout the rich lore of Hyrule. Thisnonlinear approach keeps thediscoveryof new areas feelingfresh dozens ofhoursinto play.
 ### Memorable Battles Through Varied Tactics
