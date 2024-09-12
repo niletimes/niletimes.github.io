@@ -81,6 +81,8 @@ Social proof is an essential aspect of online marketing, and integrating social 
 - Display customer reviews and testimonials directly on product pages or in a dedicated review section on your website.
 - Encourage your customers to tag your brand on social media for a chance to be featured on your store’s social feed, creating a community-driven atmosphere.
 
+![](http://i1.wp.com/prompts.cfd/image/ptY9FPa_QGGbezo6QjIHkA.jpg)
+
 ### Track Social Media Performance
 
 It’s essential to track how well your social media integration is performing to make data-driven decisions for future marketing efforts.
