@@ -1,5 +1,2 @@
-# [niletimes.github.io](https://niletimes.github.io)
-- [Quora](https://www.quora.com/profile/Nile-Don)
-- [Medium](https://medium.com/@NileDon)
-- [https://www.youtube.com/@NileDon](https://www.youtube.com/@NileDon)
-- [https://x.com/nile_don](https://x.com/nile_don)
+#
+[Home](https://77.io.vn/)
