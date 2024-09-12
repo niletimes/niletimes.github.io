@@ -19,7 +19,7 @@ Walt Disney Studios has crossed a significant global box office milestone in 202
 
 The success of *Inside Out 2* represents a triumphant return for Pixar, which has struggled in recent years. The movie has resonated with both critics and audiences, holding a 91% approval rating on Rotten Tomatoes and a 95% audience score.
 
-!["Pixar's *Inside Out 2* becomes the highest-grossing animated movie ever, contributing $1.675 billion globally."](https://i1.wp.com/static1.colliderimages.com/wordpress/wp-content/uploads/2024/08/dpentry.jpeg)
+!["Pixar's *Inside Out 2* becomes the highest-grossing animated movie ever, contributing $1.675 billion globally."](https://i1.wp.com/d1nslcd7m2225b.cloudfront.net/Pictures/480xAny/7/3/0/1431730_insideout2cdisneypixar_754789_crop.jpeg)
 
 
 
@@ -29,7 +29,7 @@ In contrast to the family-friendly *Inside Out 2*, *Deadpool & Wolverine* has ca
 
 Despite its more niche appeal, *Deadpool & Wolverine* has a Rotten Tomatoes score of 79% with a 95% audience rating. Its success proves that Disney can balance diverse genres while achieving box office gold.
 
-!["Ryan Reynolds as Deadpool and Hugh Jackman as Wolverine propel their film to $1.29 billion globally."](https://i1.wp.com/static1.colliderimages.com/wordpress/wp-content/uploads/2024/08/dpentry.jpeg)
+!["Ryan Reynolds as Deadpool and Hugh Jackman as Wolverine propel their film to $1.29 billion globally."](https://i1.wp.com/static1.colliderimages.com/wordpress/wp-content/uploads/2024/07/deadpool-wolverine-hugh-jackman-wolverine-s-iconic-costume.jpg?q=70&fit=crop&w=1100&h=618&dpr=1)
 
 
 
@@ -39,7 +39,7 @@ While *Inside Out 2* and *Deadpool & Wolverine* took the lead, Disney also saw s
 
 These films have contributed significantly to Disney’s box office dominance in 2024, proving the value of Disney’s diverse slate of inherited franchises.
 
-![*Kingdom of the Planet of the Apes* and *Alien: Romulus* contribute to Disney’s $4 billion box office haul."](https://i1.wp.com/static1.colliderimages.com/wordpress/wp-content/uploads/2024/08/dpentry.jpeg)
+![*Kingdom of the Planet of the Apes* and *Alien: Romulus* contribute to Disney’s $4 billion box office haul."](https://i1.wp.comimages2.thanhnien.vn/528068263637045248/2024/5/9/1-7-1715241941860538652584.jpg)
 
 
 
@@ -49,7 +49,7 @@ Disney’s successful year is far from over. The studio is preparing for the hol
 
 If these films perform as well as predicted, Disney could finish 2024 with multiple billion-dollar releases, further solidifying its dominance at the global box office.
 
-["Upcoming releases like *Moana 2* and *Mufasa: The Lion King* are expected to add billions to Disney’s 2024 box office totals."](https://i1.wp.com/static1.colliderimages.com/wordpress/wp-content/uploads/2024/08/dpentry.jpeg)
+["Upcoming releases like *Moana 2* and *Mufasa: The Lion King* are expected to add billions to Disney’s 2024 box office totals."](https://i1.wp.com/people.com/thmb/_Rx1jqVsdU799aHTLSxBaYdaS4E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(877x282:879x284)/moana-2-053124-2-287cc6db5b924481a6dd87158a0e3e97.jpg)
 
 
 ### Disney Continues Its Dominance at the Global Box Office
