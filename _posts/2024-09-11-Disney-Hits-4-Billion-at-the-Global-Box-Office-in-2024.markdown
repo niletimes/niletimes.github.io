@@ -49,7 +49,7 @@ Disney’s successful year is far from over. The studio is preparing for the hol
 
 If these films perform as well as predicted, Disney could finish 2024 with multiple billion-dollar releases, further solidifying its dominance at the global box office.
 
-["Upcoming releases like *Moana 2* and *Mufasa: The Lion King* are expected to add billions to Disney’s 2024 box office totals."](https://i1.wp.com/people.com/thmb/_Rx1jqVsdU799aHTLSxBaYdaS4E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(877x282:879x284)/moana-2-053124-2-287cc6db5b924481a6dd87158a0e3e97.jpg)
+!["Upcoming releases like *Moana 2* and *Mufasa: The Lion King* are expected to add billions to Disney’s 2024 box office totals."](https://i1.wp.com/people.com/thmb/_Rx1jqVsdU799aHTLSxBaYdaS4E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(877x282:879x284)/moana-2-053124-2-287cc6db5b924481a6dd87158a0e3e97.jpg)
 
 
 ### Disney Continues Its Dominance at the Global Box Office
