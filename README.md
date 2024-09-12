@@ -1,2 +1,2 @@
 #
-[Home](https://77.io.vn/)
+[Home](https://niletimes.github.io)
