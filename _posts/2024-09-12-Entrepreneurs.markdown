@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Common Shopify Mistakes to Avoid for New Entrepreneurs"
-date:   2024-09-12 01:11:01 +0000
+date:   2024-09-12 15:11:01 +0000
 categories: ['Guide','Shopify']
 excerpt_image: http://i1.wp.com/prompts.cfd/image/0lyatFasSzu9x3L4CweLxA.jpg
 image: http://i1.wp.com/prompts.cfd/image/0lyatFasSzu9x3L4CweLxA.jpg
